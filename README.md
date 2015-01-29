@@ -37,3 +37,10 @@ Please note that the output `<head>` contents will be the same as `file_b`'s `<h
 Just download and run the script.
 
 You may have to install lxml via `pip install lxml`.
+
+
+## License
+
+This script is licensed under the MIT License.
+
+Written by Gabriel Queiroz <<gabrieljvnq@gmail.com>>
